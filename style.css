@@ -209,7 +209,7 @@ a:hover {
 }
 
 #page-bgtop {
-	padding: 20px px;
+	padding: 10px px;
 }
 
 #page-bgbtm {
@@ -220,7 +220,7 @@ a:hover {
 #content {
 	float: right;
 	width: 620px;
-	padding: 30px 0px 0px 0px;
+	padding: 15px 0px 0px 0px;
 }
 
 .post {
@@ -234,8 +234,8 @@ a:hover {
 }
 
 .post .title {
-	margin-bottom: 6px;
-	padding: 8px 0 0 0px;
+	margin-bottom: 2px;
+	padding: 4px 0 0 0px;
 	letter-spacing: -.5px;
 	color: #000000;
 }
